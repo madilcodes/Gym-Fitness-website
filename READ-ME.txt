@@ -1,9 +1,9 @@
   =>  Template Name    : Fitness - Fitness Website Template
 
-  =>  Template Link    : https://htmlcodex.com/fitness-website-template
+  =>  Template Link    : https://github.com/madilcodes/Gym-Fitness-website.git
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
-  =>  Template Author  : HTML Codex
+  =>  Template Author  : https://in.linkedin.com/in/mohammed-adil-se09
 
-  =>  Author Website   : https://htmlcodex.com
+
+  =>  Author Website   : https://github.com/madilcodes/Gym-Fitness-website.git
